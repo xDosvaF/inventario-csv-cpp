@@ -43,7 +43,7 @@ Las tres últimas filas del archivo incluido tienen errores intencionales
 
 Ejecutar siempre **desde la carpeta `semana9/`**
 ```bash
-g++  main.cpp -o main             
+g++ main.cpp -o main             
 ```
 
 El programa pide un código (ejemplo: `P003`), lee el CSV, muestra los
@@ -51,9 +51,6 @@ resultados en pantalla y genera `reportes/resumen.txt`.
 
 Para probar una ruta incorrecta (caso 5), renombre temporalmente
 `datos/productos.csv` y ejecute el programa; luego devuélvale su nombre.
-
-Si la consola de Windows muestra mal las tildes del CSV, ejecutar `chcp 65001`
-antes del programa.
 
 ## Decisiones de validación
 
