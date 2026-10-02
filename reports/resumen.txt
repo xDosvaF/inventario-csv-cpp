@@ -1,0 +1,5 @@
+RESUMEN DE INVENTARIO
+Total de registros validos: 5
+Total de registros invalidos: 3
+Valor total del inventario: Q7179.00
+Busqueda (P001): Encontrado: P001 | Teclado USB | Q125.50 | 8
