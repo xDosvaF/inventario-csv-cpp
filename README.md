@@ -41,12 +41,9 @@ Las tres últimas filas del archivo incluido tienen errores intencionales
 
 ## Compilación y ejecución
 
-Ejecutar siempre **desde la carpeta `semana9/`** (la ruta `datos/productos.csv`
-es relativa).
-
+Ejecutar siempre **desde la carpeta `semana9/`**
 ```bash
-g++ -std=c++17 -Wall -Wextra -o inventario main.cpp
-./inventario                 # Windows: inventario.exe
+g++  main.cpp -o main             
 ```
 
 El programa pide un código (ejemplo: `P003`), lee el CSV, muestra los
