@@ -1,1 +1,1 @@
-Control básico de inventario desde un archivo CSV (C++)
+Agregué los productos al archivo csv en la carpeta data
