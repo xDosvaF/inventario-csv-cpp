@@ -1,1 +1,0 @@
-Agregué los productos al archivo csv en la carpeta data
